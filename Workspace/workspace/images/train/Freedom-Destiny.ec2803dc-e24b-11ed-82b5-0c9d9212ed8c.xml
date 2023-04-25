@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Freedom-Destiny</folder>
+	<filename>Freedom-Destiny.ec2803dc-e24b-11ed-82b5-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Freedom-Destiny\Freedom-Destiny.ec2803dc-e24b-11ed-82b5-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Freedom-Destiny</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>33</ymin>
+			<xmax>560</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

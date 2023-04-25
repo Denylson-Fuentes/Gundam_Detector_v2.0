@@ -1,0 +1,26 @@
+<annotation>
+	<folder>God</folder>
+	<filename>God.97456b3e-e24b-11ed-be34-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\God\God.97456b3e-e24b-11ed-be34-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>God</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>85</ymin>
+			<xmax>423</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

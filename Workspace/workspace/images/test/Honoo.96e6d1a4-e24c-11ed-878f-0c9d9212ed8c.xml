@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Honoo</folder>
+	<filename>Honoo.96e6d1a4-e24c-11ed-878f-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Honoo\Honoo.96e6d1a4-e24c-11ed-878f-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>64</ymin>
+			<xmax>476</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wing-01</folder>
+	<filename>Wing-01.b2b39d5e-e24a-11ed-a649-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Wing-01\Wing-01.b2b39d5e-e24a-11ed-a649-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wing-01</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>70</ymin>
+			<xmax>564</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

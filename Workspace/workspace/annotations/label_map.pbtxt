@@ -1,0 +1,44 @@
+item { 
+	name:'Barbatos'
+	id:1
+}
+item { 
+	name:'Crossbones'
+	id:2
+}
+item { 
+	name:'Wing-01'
+	id:3
+}
+item { 
+	name:'Deatharms'
+	id:4
+}
+item { 
+	name:'Deathsythe'
+	id:5
+}
+item { 
+	name:'Exia'
+	id:6
+}
+item { 
+	name:'God'
+	id:7
+}
+item { 
+	name:'Freedom-Destiny'
+	id:8
+}
+item { 
+	name:'Turn-A'
+	id:9
+}
+item { 
+	name:'Mk-11-Titans'
+	id:10
+}
+item { 
+	name:'Honoo'
+	id:11
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Crossbones</folder>
+	<filename>Crossbones.96c8d6ba-e24a-11ed-861a-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Crossbones\Crossbones.96c8d6ba-e24a-11ed-861a-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crossbones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>14</ymin>
+			<xmax>430</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

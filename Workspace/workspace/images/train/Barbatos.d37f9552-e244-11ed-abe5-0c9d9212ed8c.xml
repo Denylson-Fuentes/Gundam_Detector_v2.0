@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Barbatos</folder>
+	<filename>Barbatos.d37f9552-e244-11ed-abe5-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Barbatos\Barbatos.d37f9552-e244-11ed-abe5-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Barbatos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>141</ymin>
+			<xmax>331</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

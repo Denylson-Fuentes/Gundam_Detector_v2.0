@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mk-11-Titans</folder>
+	<filename>Mk-11-Titans.d8369374-e245-11ed-858f-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Mk-11-Titans\Mk-11-Titans.d8369374-e245-11ed-858f-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mk-11-Titans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>58</ymin>
+			<xmax>468</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

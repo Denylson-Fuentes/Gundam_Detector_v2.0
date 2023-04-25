@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deatharms</folder>
+	<filename>Deatharms.e39d64d2-e24a-11ed-8513-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Deatharms\Deatharms.e39d64d2-e24a-11ed-8513-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deatharms</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>172</ymin>
+			<xmax>415</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+</annotation>

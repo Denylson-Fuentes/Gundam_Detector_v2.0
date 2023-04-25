@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Deathsythe</folder>
+	<filename>Deathsythe.2f7c541c-e24b-11ed-9249-0c9d9212ed8c.jpg</filename>
+	<path>D:\Projects\Gundam Detector v2.0\Workspace\workspace\images\collectedimages\Deathsythe\Deathsythe.2f7c541c-e24b-11ed-9249-0c9d9212ed8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deathsythe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>19</ymin>
+			<xmax>383</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>
